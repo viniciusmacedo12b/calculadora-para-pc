@@ -7,13 +7,13 @@ body{
 }
 #calculadora{
     background-color: grey;
-    height: 66%;
     width: 33%;
     padding: 40px;
     display: flex;
     flex-direction: column;
     border-radius: 15px;
 border: 5px solid black;
+aspect-ratio: 14/9;
 }
 button{
     border-radius: 50%;
